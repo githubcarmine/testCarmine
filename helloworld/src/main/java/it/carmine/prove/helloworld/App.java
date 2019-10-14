@@ -15,4 +15,7 @@ public class App
         
         System.out.println( "Hello World! ciao ciaoy matteo e giulio" );
     }
+    
+    public void ciao() {
+	}
 }
