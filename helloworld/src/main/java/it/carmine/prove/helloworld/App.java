@@ -2,7 +2,7 @@ package it.carmine.prove.helloworld;
 
 /**
  * Hello world!
- *
+ * x
  */
 public class App 
 {
